@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <div className='app'>Wellcome</div>
-      <Typography>To The React</Typography>
+      <Typography variant='h1'>To The React</Typography>
     </>
   );
 }
