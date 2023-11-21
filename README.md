@@ -9,5 +9,4 @@ React Setup From Scratch: React, TypeScript, Webpack, Babel
     7. Create index.tsx and App.tsx and index.html
     8. Add start and build in package.json at script section
     9. Need this two package npm-run-all and html-webpack-plugin at devDependencies (--save-dev)
-
-Create .gitignore file
+    10. Create .gitignore file
